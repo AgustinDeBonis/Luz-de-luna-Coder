@@ -4,8 +4,6 @@
     font-family: 'Nunito Sans', sans-serif; ;
 }
 
-/**index**/
-
 .body{
     background-image: url(assets/patron-transparente-vector-macarrones-franceses-postre-o-macaron_101660-660.avif);
 }
@@ -14,6 +12,10 @@
     width: 100%;
 }
 
+.logo_luzdeluna{
+    width: 150px;
+    height: 150px;
+}
 
 .navbar.nav-color{
     background-color: pink !important;
