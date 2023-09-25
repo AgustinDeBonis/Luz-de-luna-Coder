@@ -30,6 +30,18 @@
     
 }
 
+.card-inicio{
+    width: 18rem;
+}
+
+.card-inicio2{
+    width: 35rem;
+}
+
+.pago__div{
+    width: 20rem;
+}
+
 .link{
     text-decoration: none;
     color: rgb(183, 15, 235);
@@ -39,6 +51,16 @@
 .p-mapa{
     font-weight: 700;
     margin: 20px;
+}
+
+.div__iframe{
+   margin: 15px;
+}
+
+.div__iframe__size{
+    width: 100%;
+    height: 450px;
+    border: 2px;
 }
 
 .blog{
