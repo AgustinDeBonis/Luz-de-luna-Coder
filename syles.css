@@ -45,7 +45,11 @@
 }
 
 .pago__div{
-    width: 20rem;
+    width: 18rem;
+}
+
+.pago__div__text{
+    font-size: large;
 }
 
 .link{
