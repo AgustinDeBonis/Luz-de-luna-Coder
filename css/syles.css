@@ -75,13 +75,10 @@
 }
 
 .main-mapa__div__iframe{
-   margin: 15px;
-}
-
-.main-mapa__div__iframe{
     width: 100%;
     height: 450px;
     border: 2px;
+    margin: 15px;
 }
 
 .blog{
