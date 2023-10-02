@@ -46,7 +46,13 @@
   font-size: large;
 }
 
-.link {
+.footer__img1 {
+  height: 100px;
+}
+.footer__img2 {
+  width: 200px;
+}
+.footer__link {
   text-decoration: none;
   color: rgb(183, 15, 235);
   font-weight: 600;

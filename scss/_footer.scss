@@ -1,5 +1,14 @@
-.link{
-    text-decoration: none;
-    color: rgb(183, 15, 235);
-    font-weight: 600;
+.footer{
+    &__img1{
+        height: 100px;
+    }
+    &__img2{
+        width: 200px;
+    }
+    &__link{
+        text-decoration: none;
+        color: rgb(183, 15, 235);
+        font-weight: 600;
+
+    }
 }
