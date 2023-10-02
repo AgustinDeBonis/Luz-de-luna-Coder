@@ -1,0 +1,14 @@
+.main-container{
+    display: flex;
+    &__img-inicio{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        &__card-inicio{
+            width: 25rem;
+            &__card-text{
+                font-size: large;
+            }
+        }
+    }    
+}

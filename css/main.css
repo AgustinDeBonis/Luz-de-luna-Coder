@@ -1,3 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito Sans", sans-serif;
+}
 
+.body {
+  background-image: url(../assets/patron-transparente-vector-macarrones-franceses-postre-o-macaron_101660-660.avif);
+}
+
+.navbar.nav-color {
+  background-color: pink !important;
+}
+
+.header {
+  width: 100%;
+}
+.header__navbar__logo_luzdeluna {
+  margin-right: 5px;
+  width: 50px;
+  height: 50px;
+}
+.header__navbar__div {
+  font-size: large;
+}
+
+.main-container {
+  display: flex;
+}
+.main-container__img-inicio {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.main-container__img-inicio__card-inicio {
+  width: 25rem;
+}
+.main-container__img-inicio__card-inicio__card-text {
+  font-size: large;
+}
+
+.pago__div {
+  width: 18rem;
+}
+.pago__div__text {
+  font-size: large;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(183, 15, 235);
+  font-weight: 600;
+}
+
+.card-alfajores {
+  width: 20rem;
+  margin: 5px;
+}
+
+.main-mapa__p-mapa {
+  font-weight: 700;
+  margin: 20px;
+}
+.main-mapa__div__iframe {
+  margin: 15px;
+  width: 100%;
+  height: 450px;
+  border: 2px;
+}
+
+.blog {
+  font-weight: 600;
+  margin: 20px;
+}
+
+.contacto-main {
+  margin: 20px;
+}
+.contacto-main__input-label {
+  width: 50%;
+}
 
 /*# sourceMappingURL=main.css.map */
