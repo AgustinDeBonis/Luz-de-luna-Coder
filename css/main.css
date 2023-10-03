@@ -46,6 +46,10 @@
   font-size: large;
 }
 
+.bienvenida {
+  margin: 5px;
+}
+
 .footer__img1 {
   height: 100px;
 }
@@ -61,6 +65,14 @@
 .card-alfajores {
   width: 20rem;
   margin: 5px;
+}
+.card-alfajores img {
+  padding: 5px;
+}
+.card-alfajores ul li {
+  font-weight: 700;
+  color: black;
+  background-color: rgb(189, 63, 84);
 }
 
 .main-mapa__p-mapa {
