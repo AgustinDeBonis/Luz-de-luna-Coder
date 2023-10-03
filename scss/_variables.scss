@@ -1,0 +1,13 @@
+$redes-sociales:(
+    instagram: #eb5a72,
+    twitter: #000000,
+    facebook: #1f1fe7,
+);
+
+@each $red-s, $color in $redes-sociales{
+    .redes-#{$red-s}{
+        color: $color;
+        width: 30px;
+        height: 30px;
+    }   
+}
