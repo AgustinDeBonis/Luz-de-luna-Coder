@@ -118,6 +118,10 @@
 }
 .contacto-main__input-label {
   width: 50%;
+  border-color: #f13f5d;
+}
+.contacto-main__input-label2 {
+  border-color: #f13f5d;
 }
 
 /*# sourceMappingURL=main.css.map */
