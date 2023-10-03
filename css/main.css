@@ -62,6 +62,10 @@
   font-weight: 600;
 }
 
+.title {
+  margin: 15px;
+}
+
 .card-alfajores {
   width: 20rem;
   margin: 5px;
