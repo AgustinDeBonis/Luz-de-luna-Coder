@@ -74,10 +74,8 @@
 .footer__img2 {
   width: 200px;
 }
-.footer__link {
-  text-decoration: none;
-  color: rgb(183, 15, 235);
-  font-weight: 600;
+.footer__box {
+  padding: 5px;
 }
 
 .title {
