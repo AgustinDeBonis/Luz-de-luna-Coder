@@ -1,6 +1,25 @@
-.blog{
-    font-weight: 600;
-    margin: 20px;
-    width: 60%;
+.blog-container{
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    &__blog{
+
+     font-weight: 600;
+     margin: 20px;
+     width: 100%;
+     padding: 0;
+
+    }
+    &__img{
+        height: 400px;
+        max-width: 100%; 
+        border-radius: 10%;
+        border: 20px;
+        border-color: black ;
+       
+    }
+    
 }

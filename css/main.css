@@ -107,15 +107,29 @@
   border: 2px;
 }
 
-.blog {
+.blog-container {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.blog-container__blog {
   font-weight: 600;
   margin: 20px;
-  width: 60%;
+  width: 100%;
   padding: 0;
+}
+.blog-container__img {
+  height: 400px;
+  max-width: 100%;
+  border-radius: 10%;
+  border: 20px;
+  border-color: black;
 }
 
 .img_blog {
-  display: flex;
+  max-width: 40%;
 }
 
 .contacto-main {
